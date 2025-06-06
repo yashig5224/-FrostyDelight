@@ -16,9 +16,9 @@
 
 - **HTML5**
 - **CSS**
-- **JavaScript **
+- **JavaScript**
 
-  Screenshots:
+## Screenshots:
   
 ![FD1](https://github.com/user-attachments/assets/ea537411-faad-438f-8a81-ebe3e0e708cd)
 ![FD2](https://github.com/user-attachments/assets/c9d6e2e3-e2f9-46bc-bb47-a865303580b2)
