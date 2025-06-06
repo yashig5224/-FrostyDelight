@@ -44,7 +44,7 @@ FrostyDelight/
 # 🚧 Project Status
 ### 🟡 Under Development
 Planned enhancements:
-   Add more dessert types (e.g., sundaes, shakes)
+   Add more dessert types (e.g., sundaes,             shakes)
    Improve animations and hover effects
    Optimize performance and accessibility
 
