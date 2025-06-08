@@ -6,34 +6,33 @@
 
 ## 🌟 Features
 
-- 🍦 Beautiful pastel color scheme
-- 🖱️ Interactive cards with zoom and highlight animations
-- 📱 Fully responsive design for all devices
-- 💬 Description popups on click
-- 🍰 Separate sections for various desserts: Ice Creams, Cakes, Waffles, and More!
+- 🍦 Beautiful pastel color scheme <br>
+- 🖱️ Interactive cards with zoom and highlight animations <br>
+- 📱 Fully responsive design for all devices<br>
+- 💬 Description popups on click<br>
+- 🍰 Separate sections for various desserts: Ice Creams, Cakes, Waffles, and More!<br>
 
 # 📁 Folder Structure
-FrostyDelight/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   ├── logo.png
-│   ├── vanilla.png
-│   ├── chocolate.png
-│   └── strawberry.png
-├── screenshots/
-│   ├── frostydelight-preview.png
-│   └── mobile-view.png
-├── README.md
+FrostyDelight/<br>
+├── index.html<br>
+├── css/<br>
+│   └── style.css<br>
+├── js/<br>
+│   └── script.js<br>
+├── images/<br>
+│   ├── logo.png<br>
+│   ├── vanilla.png<br>
+│   ├── chocolate.png<br>
+│   └── strawberry.png<br>
+├── screenshots/<br>
+│   ├── frostydelight-preview.png<br>
+├── README.md<br>
 
 ## 🛠 Tech Stack
 
-- **HTML5**
-- **CSS**
-- **JavaScript**
+- **HTML5**<br>
+- **CSS**<br>
+- **JavaScript**<br>
 
 ## Screenshots:
   ### 💻 Desktop View
@@ -42,16 +41,16 @@ FrostyDelight/
 ![FD3](https://github.com/user-attachments/assets/018085e9-1ba3-4d2d-8871-0dd3c3732892)
 
 # 🚧 Project Status
-### 🟡 Under Development
-Planned enhancements:
-   Add more dessert types (e.g., sundaes,             shakes)
-   Improve animations and hover effects
-   Optimize performance and accessibility
+### 🟡 Under Development<br>
+Planned enhancements:<br>
+   Add more dessert types (e.g., sundaes,shakes)<br>
+   Improve animations and hover effects<br>
+   Optimize performance and accessibility<br>
 
 ## 💌 Contribution
 Feel free to fork the repo, suggest improvements, or create pull requests if you have creative ideas!
 
 ## Designed By
-Yashi Gupta
+**Yashi Gupta**
 Follow on GitHub: yashig5224   
 
